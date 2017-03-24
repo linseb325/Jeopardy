@@ -1,0 +1,183 @@
+{
+Category: "Name of the Game"
+[
+100:
+Q: Originating in Scotland, this gentleman's game is played from tee to green.
+F: What is
+A: Golf
+200:
+Q: James Naismith invented this game in which players shot a ball into peach baskets.
+F: What is
+A: Basketball
+300:
+Q: In this game, only one player from each team may use his hands to touch the ball during play.
+F: What is
+A: Soccer
+400:
+Q: This game can be played on asphalt, grass, or clay.
+F: What is
+A: Tennis
+500:
+Q: Played on horseback, the object of this game is to hit a small plastic or wooden ball into the opposing goal using a long-handled mallet.
+F: What is
+A: Polo
+]
+}
+
+{
+Category: "Sci-Fi on the Screen"
+[
+100:
+Q: This series was first produced in the 1960s and led to the cell phone.
+F: What is
+A: Star Trek
+200:
+Q: This series was most recently produced in 2015 featuring most of the original cast. The force is strong with this series.
+F: What is
+A: Star Wars
+300:
+Q: Created in the 2000s, this show was made into a movie called Fire Fly.
+F: What is
+A: Serenity
+400:
+Q: Very similar to Star Trek, this series featured several different ships and shuttles.
+F: What is
+A: Battlestar Galactica
+500:
+Q: The California city in which this series takes place is also the name of the series.
+F: What is
+A: Eureka
+]
+}
+
+{
+Category: "CS Professor Surnames"
+[
+100:
+Q: This professor used to own AwesomeFat until recently selling it.
+F: Who is
+A: Litman
+200:
+Q: This new professor previously worked at Bank of America.
+F: Who is
+A: Spencer
+300:
+Q: This professor is the CS department chair.
+F: Who is
+A: Locklair
+400:
+Q: This professor is fascinated with the arts.
+F: Who is
+A: Wahl
+500:
+Q: This professor is a member of more than one department and hails from a foreign nation.
+F: Who is
+A: Menuge
+]
+}
+
+{
+Category: "NFL Draft"
+[
+100:
+Q: This Patriots quarterback was famously the 199th selection from his draft class, but that didn't deflate his spirits as he went on to win four Super Bowls (as of 2016).
+F: Who is
+A: Tom Brady
+200:
+Q: This year's draft was known as the "Year of the Quarterback" as it featured the selections of Eli Manning, Philip Rivers, and Ben Roethlisberger.
+F: What is
+A: 2004
+300:
+Q: Amobi Okoye was selected in 2007 and became the youngest player to ever be drafted. He was this many years old.
+F: What is
+A: 19
+400:
+Q: The inaugural NFL Draft was held in this year.
+F: What is
+A: 1936
+500:
+Q: Norm Van Brocklin's Atlanta Falcons attempted to draft this 64-year-old actor out of Fort Apache State in 1972, but commissioner Pete Rozelle disallowed the pick.
+F: Who is
+A: John Wayne
+]
+}
+
+{
+Category: "Professional Golf"
+[
+100:
+Q: This is the color of the jacket presented to the winner of the Masters each year.
+F: What is
+A: Green
+200:
+Q: This biennial event is contested between two teams of professional golfers from the United States and Europe.
+F: What is
+A: Ryder Cup
+300:
+Q: Nicknamed "The Golden Bear," this player has won the most major championships in history.
+F: Who is
+A: Jack Nicklaus
+400:
+Q: This golf course is home to the famous "island green" 17th hole and hosts The Players Championship annually.
+F: What is
+A: TPC Sawgrass
+500:
+Q: This South African birdied the final four holes to win the Masters in 2011.
+F: Who is
+A: Charl Schwartzel
+]
+}
+
+{
+Category: "CUW Sports"
+[
+100:
+Q: This is the first name of Concordia's mascot, a falcon.
+F: Who is
+A: Freddy
+200:
+Q: In this track and field event, a sharp, spear-like object is thrown.
+F: What is
+A: Javelin
+300:
+Q: Preceded by the "@" symbol, this is the Twitter handle for CUW sports-related news.
+F: What is
+A: CUWFalcons
+400:
+Q: This sport will be new to CUW for the 2016-17 school year.
+F: What is
+A: Field Hockey
+500:
+Q: This CUW sports team won a NACC championship in the fall of 2013.
+F: What is
+A: Football
+]
+}
+
+{
+Category: "Video Games"
+[
+100:
+Q: This is Microsoft's current flagship console.
+F: What is
+A: Xbox One
+200:
+Q: This character's first game was released in 1991 on the Sega Genesis console to counter Mario's popularity.
+F: Who is
+A: Sonic the Hedgehog
+300:
+Q: This is the abbreviation for the lowest ESRB rating.
+F: What is
+A: EC
+400:
+Q: This game requires the player to work as a night guard at a pizzeria while battling haunted animatronics.
+F: What is
+A: Five Nights at Freddy's
+500:
+Q: This game caused the ESRB rating system to exist following the release of its first version on the Sega Genesis.
+F: What is
+A: Mortal Kombat
+]
+}
+
+-END-
